@@ -2,6 +2,10 @@
 # Spring Boot Library Management System
 This is a Spring Boot application for managing a library system where students can add their details, issue and return books, and view book authors. This project provides 10 APIs to perform various operations.
 
+## Screenshots of ER diagram
+
+![App Screenshot](https://github.com/Mohammad-Mubarak/Library-Management-System/blob/master/Screenshot%202023-03-20%20010529.png)
+
 
 
 
