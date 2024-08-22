@@ -1,5 +1,5 @@
 
-# Spring Boot Library Management System
+# Spring Boot (Book Hub) a Library Management System
 This is a Spring Boot application for managing a library system where students can add their details, issue and return books, and view book authors. This project provides 10 APIs to perform various operations.
 
 ## Screenshots of ER diagram
